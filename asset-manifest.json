@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Space-X-Launches/static/css/main.b79313d2.css",
+    "main.js": "/Space-X-Launches/static/js/main.9bc5fef0.js",
+    "static/js/787.33c205d5.chunk.js": "/Space-X-Launches/static/js/787.33c205d5.chunk.js",
+    "index.html": "/Space-X-Launches/index.html",
+    "main.b79313d2.css.map": "/Space-X-Launches/static/css/main.b79313d2.css.map",
+    "main.9bc5fef0.js.map": "/Space-X-Launches/static/js/main.9bc5fef0.js.map",
+    "787.33c205d5.chunk.js.map": "/Space-X-Launches/static/js/787.33c205d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b79313d2.css",
+    "static/js/main.9bc5fef0.js"
+  ]
+}
