@@ -1,7 +1,7 @@
 {
   "name": "space-flights-fetch",
   "version": "0.1.0",
-  "homepage": "https://SurfWeb3.github.io/Space-X-Launches",
+  "homepage" : ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
